@@ -1,0 +1,16 @@
+Quick sort
+
+1. 取出首元素作为基准
+
+2.把<首元素的所有元素放到left
+  把>首元素的所有元素放到right
+
+这是一个拆分的过程
+
+3.继续拆分left首元素，right首元素作为基准，重复上述过程
+
+这里使用递归法
+
+
+详解：https://my.oschina.net/albert2011/blog/785604
+https://blog.csdn.net/wxwzy738/article/details/7832737
